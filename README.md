@@ -38,9 +38,10 @@
  - She will have her arms out to the side like in this [(_reference_)](https://cdn.discordapp.com/attachments/190295136784220160/815424330455580706/EfUSrI2VoAA8Ngq.png)
     - Her hands will be open however you think looks good for the sketch
  - Her legs will come down about this far apart in a similar manner to this [(_reference_)](https://cdn.discordapp.com/attachments/190295136784220160/815439754148839474/unknown.png)
- - She is *not* standing on anything
+ - She is *not* standing on anything, it's almost like she is falling/floating
  - Her expression will be smiling
     - We would like to have her doing a few different simple expressions too
+ - While the shirt is long and would probably cover her shorts, it should expose about this much in this image [(_reference_)](https://cdn.discordapp.com/attachments/190295136784220160/815552245646622740/unknown.png)
 
 ## Art Style
  - Try to capture a similar feel to this artist, body shape and proportion wise ([pixiv](https://www.pixiv.net/en/users/1203589/illustrations))
