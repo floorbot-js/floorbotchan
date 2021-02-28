@@ -26,7 +26,7 @@
  - Wearing Shorts
    - Black
    - Ribbed-knit material (heatsink style) [(_reference_)](https://cdn11.bigcommerce.com/s-2e6e1/products/7129/images/14172/Fabric_19868__78025.1549141232.1000.1000.jpg?c=2) [(_reference_)](https://core-electronics.com.au/media/catalog/product/cache/1/image/650x650/fe1bcd18654db18f328c2faaaf3c690a/d/u/dual-fan-aluminium-heatsink-case-for-raspberry-pi-4-black-2_1.jpg)
-   - Red and Black drawstring to match cable [(_reference_)](https://core-electronics.com.au/media/catalog/product/cache/1/image/650x650/fe1bcd18654db18f328c2faaaf3c690a/d/u/dual-fan-aluminium-heatsink-case-for-raspberry-pi-4-black1-2.jpg)
+   - Red drawstring to match cable [(_reference_)](https://core-electronics.com.au/media/catalog/product/cache/1/image/650x650/fe1bcd18654db18f328c2faaaf3c690a/d/u/dual-fan-aluminium-heatsink-case-for-raspberry-pi-4-black1-2.jpg)
       - Tied like bow knot
    - They will be about this size on her body [_(reference)_](https://pbs.twimg.com/media/EZh9rnIUEAE14NE?format=jpg&name=900x900)
    - Will also have a similar waistband and [_these bits that I don't know the name of_](https://cdn.discordapp.com/attachments/190295136784220160/815443854005370911/unknown.png)
